@@ -644,15 +644,15 @@
 
 .frame .text-wrapper-7 {
   font-family: "Roboto", Helvetica;
-    font-weight: 900;
-    color: #ffffff;
-    font-size: 40px;
-    letter-spacing: 0;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
 }
 
 .frame .overlap-7 {
   position: absolute;
-  width: 1282px;
+  width: 100%;
   height: 832px;
   top: 3532px;
   left: 0;
@@ -1024,7 +1024,7 @@
 
 .frame .group-15 {
   position: absolute;
-  width: 1280px;
+  width: 100%;
   height: 338px;
   top: 1900px;
   left: 0;
@@ -1562,7 +1562,7 @@
 
 .frame .group-wrapper-2 {
   position: absolute;
-  width: 1280px;
+  width: 100%;
   height: 98px;
   top: 0px;
   left: 0;
@@ -1732,11 +1732,11 @@
   overflow: hidden;
   /* background-image: url(./img/rectangle-1-1.svg); 
   background-size: 100% 100%;
-} */ 
+} */
 
 #donate-btn {
   position: absolute;
-  border-radius : 60px;
+  border-radius: 60px;
   width: 152px;
   height: 48px;
   top: 0px;
@@ -1751,7 +1751,7 @@
   letter-spacing: 0;
 }
 
-.frame .text-wrapper-36{
+.frame .text-wrapper-36 {
   position: absolute;
   width: 115px;
   top: 11px;
